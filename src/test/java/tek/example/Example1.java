@@ -12,6 +12,8 @@ public class Example1 {
         String name = "Hamed";
         System.out.println(name);
 
+        String name1 = "Mr.A";
+        System.out.println(name1);
 
         // if you want to not add any folder to git repo just add .foldername in .gitignore file.
     }
